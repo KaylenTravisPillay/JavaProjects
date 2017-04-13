@@ -3,3 +3,11 @@
 *.prefs
 *.class
 HyperionTest/src/Test.java
+.metadata/
+COMP313_Practical07(Kaylen_Travis_Pillay - 213514164)/src/practical07_solution_KaylenTravisPillay/SocketInfo.java
+COMP313_Practical07(Kaylen_Travis_Pillay - 213514164)/src/practical07_solution_KaylenTravisPillay/ReverseServlet.java
+COMP313_Practical07(Kaylen_Travis_Pillay - 213514164)/src/practical07_solution_KaylenTravisPillay/EchoServer.java
+COMP313_Practical07(Kaylen_Travis_Pillay - 213514164)/src/practical07_solution_KaylenTravisPillay/URLTesting.java
+KTPSol_Network_Chat/.gitignore
+COMP313_Practical07(Kaylen_Travis_Pillay - 213514164)/javax.jar/javax.jar
+COMP313_Practical07(Kaylen_Travis_Pillay - 213514164)/src/practical07_solution_KaylenTravisPillay/EchoClient.java
